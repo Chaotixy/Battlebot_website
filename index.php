@@ -46,16 +46,86 @@
             <div id="contentBigBox">
                 <div class="contentBoxes">
                     <div class="headerBox">
-                    <h1>Livestream</h1>
+                        <a id="stream_link"><h1>Livestream</h1></a>
                     </div>
                     <div id="LiveInfo">
                             <div id="video">
                                 <iframe src="http://foscam.serverict.nl/videostream.cgi"></iframe>
                             </div>
                             <div id="introTextBox">
+                                <h1>Scoreboard</h1>
+                                
+                                <div id="table">
+                                    <table id="scoreboard">
+                                        <tr>
+                                            <th>Battlebot</th>
+                                            <th>Game 1</th>
+                                            <th>Game 2</th>
+                                            <th>Game 3</th>
+                                       </tr>
+                                       
+                                       <tr>
+                                        <td>Group 1</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                      </tr>
+                                      <tr>
+                                        <td>Group 2</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                      </tr>
+                                      <tr>
+                                        <td>Group 3</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                      </tr>
+                                      <tr>
+                                        <td>Group 4</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                      </tr>
+                                        
+                                    </table>
+                                    
+                                </div>
                                
                             </div>
                     </div>
+                </div>
+                
+                <div class="contentBoxesEverything">
+                    <div class="headerBox">
+                        <a id="games_link"><h1>The Games.</h1></a>
+                    </div>
+                    <div class="everythingInfo">
+                        <div class="picturesEverythingInfo">
+                            <img src="" alt="Follow the line" width="350" height="200">
+                        </div> 
+                        <div class="textEverythingInfo">
+                            <h3>Follow the line</h3>
+                            <p>blfhishgs</p></div>
+                    </div>
+                    <div class="everythingInfo">
+                        <div class="picturesEverythingInfo">
+                            <img src="" alt="Soccer" width="350" height="200">
+                        </div>
+                        <div class="textEverythingInfo">
+                            <h3>Soccer</h3>
+                            <p>greg</p></div>
+                    </div>
+                    <div class="everythingInfo">
+                        <div class="picturesEverythingInfo">
+                            <img src="" alt="Maze" width="350" height="200">
+                        </div>
+                        <div class="textEverythingInfo">
+                            <h3>Maze</h3>
+                            <p>greage</p></div>
+                    </div>
+                    
                 </div>
             
         </div>
