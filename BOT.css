@@ -1,0 +1,35 @@
+#wrapper{
+   width:1485px;
+   height:717px;
+}
+div.background{
+    left:auto;
+    width:1485px;
+    height:717px;
+    margin-right:auto;
+    background-image:url(pictures/b1.jpg);
+}
+div.body{
+    width:372px;
+    height:460px;
+    float:left;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: 160px;
+}
+div.body2{
+    width:360px;
+    height:150px;
+    margin-right:auto;
+    margin-top:18px;
+    float:left;
+    text-align: center;
+}
+.pro{
+    height:120px;
+    width:120px;
+    margin-left: 120px;
+    margin-top:13px;
+        
+}
+
