@@ -271,3 +271,12 @@ html {
     margin-top:190px;
     background-image: url(https://www.aladyinlondon.com/wp-content/themes/Geraldine/images/background);
 }
+
+#logOut
+{
+    width:200px;
+    height:30px;
+    float:left;
+    text-align: center;
+    color:white;
+}

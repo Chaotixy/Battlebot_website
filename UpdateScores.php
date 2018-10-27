@@ -6,7 +6,12 @@
     </head>
     <body>
          <?php
-        // put your code here
+            session_start();
+        if (!isset($_SESSION['userName']) || empty($_SESSION['userName']))
+        {
+            header("location: login.php");
+            exit;
+        }
         ?>
         
         <div id ="wrapper">
@@ -14,6 +19,7 @@
                 <div id="headMiddle">
                     <div id="headtext"><h1>Battle-Bots</h1></div>
                     <div id="headlogo"><img src=img/controller.png alt="controller" height="70px" width="70px"></div>
+                    <div id="logOut"><p><a href="logout.php">Logout</a></p></div>
                 </div>
                 
                <div id="symbolWrapper"> 
