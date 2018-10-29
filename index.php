@@ -6,14 +6,7 @@
         <title>Battlebots</title>
     </head>
     <body>
-        <script type="text/javascript" src="jquery.js"></script>
-        <script type="text/javascript">
-            $(document).ready(function() {
-                setInterval(function(){
-                    $("#show").load("index.php");
-                }, 3000);
-            });
-            </script>
+
 
 
         <div id ="wrapper">
@@ -63,6 +56,15 @@
                             <form action="index.php" method="POST">
                                 <div id="table"> 
                                     <table id="scoreboard">
+                                        <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+                                        <script type="text/javascript">
+                                            $(document).ready(function () {
+                                                setInterval(function () {
+                                                    $('#scoreboard').load('index.php');
+                                                }, 1000);
+                                            });
+                                        </script>
+                         
                                         <?php
                                         $conn = mysqli_connect("localhost", "root", "", "battlebot");
                                         if ($conn->connect_error) {
@@ -83,6 +85,7 @@
                                             }
                                         }
                                         $conn->close();
+                                        
                                         ?>
 
 
