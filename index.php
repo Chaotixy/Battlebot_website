@@ -6,6 +6,14 @@
         <title>Battlebots</title>
     </head>
     <body>
+        <script type="text/javascript" src="jquery.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                setInterval(function(){
+                    $("#show").load("index.php");
+                }, 3000);
+            });
+            </script>
 
 
         <div id ="wrapper">
