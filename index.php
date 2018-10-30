@@ -64,7 +64,7 @@
                                                 }, 1000);
                                             });
                                         </script>
-                         
+
 
 
                                     </table>
@@ -82,27 +82,28 @@
                     </div>
                     <div class="everythingInfo">
                         <div class="picturesEverythingInfo">
-                            <img src="" alt="Follow the line" width="350" height="200">
+                            <img src="img/b10.jpeg" alt="Follow the line" width="350" height="200">
                         </div>
                         <div class="textEverythingInfo">
                             <h3>Follow the line</h3>
-                            <p>blfhishgs</p></div>
+                            <p>Follow the line is a game where by the robots have been programmed to strictly follow black tapes via bluetooth and motion sensors and detectors. So in this challenge two robots are going to compete in the follow the line challenge to see who will be victor!! </p></div>
                     </div>
                     <div class="everythingInfo">
                         <div class="picturesEverythingInfo">
-                            <img src="" alt="Soccer" width="350" height="200">
+                            <img src="img/b13.jpeg" alt="Soccer" width="350" height="200">
                         </div>
                         <div class="textEverythingInfo">
                             <h3>Soccer</h3>
-                            <p>greg</p></div>
+                            <p>The passionate game of soccer has now been made available for robots to play but sadly this game will be more like a drill!.
+                                The robots will be drilled on a soccer motion (movement). So simply movement from one point to another with a ball.</p></div>
                     </div>
                     <div class="everythingInfo">
                         <div class="picturesEverythingInfo">
-                            <img src="" alt="Maze" width="350" height="200">
+                            <img src="img/b9.jpeg" alt="Maze" width="350" height="200">
                         </div>
                         <div class="textEverythingInfo">
                             <h3>Maze</h3>
-                            <p>greage</p></div>
+                            <p>A maze is a path or collection of paths, typically from an entrance to a goal. The word is used to refer both to branching tour puzzles through which the solver must find a route, and to simpler non-branching ("unicursal") patterns that lead unambiguously through a convoluted layout to a goal. (The term "labyrinth" is generally synonymous with "maze", but can also connote specifically a unicursal pattern). The pathways and walls in a maze are typically fixed, but puzzles in which the walls and paths can change during the game are also categorised as mazes or tour puzzles. Just as explained above, the robots will have to compete to complete the challenge. </p></div>
                     </div>
 
                 </div>
