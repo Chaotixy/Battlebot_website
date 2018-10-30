@@ -182,7 +182,7 @@ html {
     width: 565px;
     height: 460px;
     float: left;
-    margin-top:-25px;
+    margin-top:30px;
 }
 
 #introTextBox h1 {
@@ -190,7 +190,7 @@ html {
     color: gray;
     margin-left: 220px;
     margin-top: 30px;
-    margin-bottom:9px;
+    margin-bottom:30px;
 }
 
 #scoreboard {
