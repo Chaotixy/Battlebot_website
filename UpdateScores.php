@@ -32,33 +32,11 @@
                 <a href="logout.php"><div id="logOut" ><p>Log out</p></div></a>
             </div>
 
-                <div id="symbolWrapper"> 
-                    <div id="symbols">
-                        <div class="circle1">
-                            <a href="#stream_link">
-                                <img src="img/stream.png" width="100" height="100" alt="live">
-                            </a>
-                        </div>
-                        <div class="circle2">
-                            <a href="#games_link" >
-                                <img src="img/duel.png" width="80" height="80" alt="duel">
-                            </a>
-                        </div>
-                        <div class="circle3">
-                            <a href="#bots_link">
-
-                                <img src="img/bots.png" width="90" height="90" alt="bot">
-                            </a>
-                        </div>
-                        <div class="symbolText"> <p>Live</p> </div>
-                        <div class="symbolText" style="margin-left: 34px"> <p>Games</p> </div>
-                        <div class="symbolText"> <p>Bots</p> </div>
-                    </div>
-                </div>
+               
 
             
 
-            <div id="contentBigBoxUpdates">
+            <div id="contentBigBoxUpdatesA">
                 <div class="contentBoxes">
                     <div class="headerBox">
                         <a id="stream_link"><h1>Livestream</h1></a>

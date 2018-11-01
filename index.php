@@ -109,8 +109,54 @@
                     </div>
 
                 </div>
+                
+                <div class="contentBoxesBots">
+                    <div class="headerBox">
+                        <a id="bots_link"><h1>The Bots</h1></a>
+                    </div>
+                    <div id="contentBots">
+                        <div id="accordion">
+                            <ul>
+                                <li>
+                                    <input type="checkbox" checked>
+                                    <i></i>
+                                    <h2>Fobos</h2>
+                                    <p>jfikosd;lajfiokaws jfiesoka;jfiowsajf ojfiesoajf iawsw jfisojf iosfjo</p>
+                                </li>
+                                <li>
+                                    <input type="checkbox" checked>
+                                    <i></i>
+                                    <h2>Demos</h2>
+                                    <p></p>
+                                </li>
+                                <li>
+                                    <input type="checkbox" checked>
+                                    <i></i>
+                                    <h2>BattleBot 3</h2>
+                                    <p></p>
+                                </li>
+                                <li>
+                                    <input type="checkbox" checked>
+                                    <i></i>
+                                    <h2>BattleBot 4</h2>
+                                    <p>fjikesol:JGFIojfiosekJFIO</p>
+                                    <p>fjikesol:JGFIojfiosekJFIO</p>
+                                    <p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p>
+                                    <p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p>
+                                    <p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p>
+                                    
+                                    
+                                </li>
+                            </ul>
+
+
+                        </div>
+                    </div>
+
+                </div>
 
             </div>
-
+            
+           
     </body>
 </html>
