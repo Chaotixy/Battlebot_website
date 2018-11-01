@@ -28,8 +28,9 @@
                 <div id="headMiddle">
                     <div id="headtext"><h1>Battle-Bots</h1></div>
                     <div id="headlogo"><img src=img/controller.png alt="controller" height="70px" width="70px"></div>
-                    <div id="logOut"><p><a href="logout.php">Logout</a></p></div>
                 </div>
+                <a href="logout.php"><div id="logOut" ><p>Log out</p></div></a>
+            </div>
 
                 <div id="symbolWrapper"> 
                     <div id="symbols">
@@ -55,7 +56,7 @@
                     </div>
                 </div>
 
-            </div>
+            
 
             <div id="contentBigBoxUpdates">
                 <div class="contentBoxes">
