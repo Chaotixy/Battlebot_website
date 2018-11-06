@@ -8,8 +8,7 @@ and open the template in the editor.
     <head>
         <title>Login page</title>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="BOT.css">
+        <link rel="stylesheet" type="text/css" href="CSS/BOT.css">
     </head>
     <body>
         <?php
@@ -45,24 +44,19 @@ and open the template in the editor.
             }
         }
         ?>
-        <div id="wrapper">
-            <div class="background">
-                <div class="body">
-                    <img class = "pro" src = "pictures/propic.jpg">
-                    <div class = "body2">
+        <div id="box">
+                    <img id = "pro" src = "pictures/propic.jpg">
                         <form action = "" method = "POST">
                             <h3 style="font-family:comic Sans MS;">Username:<br/> <input type = "text" name = "username"></h3><br>
         <?= $username_error ?>
                             <h3 style="font-family:comic Sans MS;">Password:<br/> <input type = "password" name = "password"></h3><br>
         <?= $password_error ?>
-                            <input style="font-family:comic Sans MS;" type = "submit" name = "submit" value = "Login">                
+                            <input style="font-family:comic Sans MS;" type = "submit" name = "submit" value = "Login" id="Loginn">                
                         </form>
                         <br>
                         <form method="get" action="index.php">
                             <button type="submit" id="indexx">Index</button>
-                        </form>
-                    </div>
-                </div>           
+                        </form>         
             </div>
     </body>
 </html>

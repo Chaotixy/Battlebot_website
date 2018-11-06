@@ -1,34 +1,62 @@
-#wrapper{
-   width:1485px;
-   height:717px;
+*
+{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
 }
-div.background{
-    left:auto;
-    width:1485px;
-    height:717px;
-    margin-right:auto;
-    background-image:url(pictures/bluegreen.png);
+
+html {
+    height:100%;
+    width:100%;
 }
-div.body{
-    width:372px;
-    height:460px;
-    float:left;
-    background-color: white;
-    margin-left: 600px;
-    margin-top: 160px;
+
+body{
+    background-image: url(max.jpg);
+    height:100%;
+    width:100%;
 }
-div.body2{
-    width:360px;
-    height:150px;
-    margin-right:auto;
-    margin-top:18px;
-    float:left;
+
+#box{
+    width: 200px;
+    height: 500px;
     text-align: center;  
-}
-.pro{
-    height:120px;
-    width:120px;
-    margin-left: 120px;
-    margin-top:13px;
+    background-color: #e6ffff;
+    margin: 0 auto;
+    margin-top: 80px;
+    border-radius: 40px;
         
+    
+}
+
+#pro{
+    width: 125px;
+    height: 125px;
+    margin-top: 30px;
+}
+
+#indexx{
+    width: 125px;
+    font-size: 20px;
+    background-color: rgba(36, 161, 156,0.7);
+    border-radius: 6px;
+    color: white;
+    margin-top: 30px;
+}
+
+#indexx:hover{
+    color: darkgreen;
+}
+
+#Loginn{
+    width: 125px;
+    font-size: 20px;
+    background-color: rgba(36, 161, 156,0.7);
+    border-radius: 6px;
+    color: white;
+    margin-top: 40px;
+    
+}
+
+#Loginn:hover{
+    color: darkgreen;
 }
