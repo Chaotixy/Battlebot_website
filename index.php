@@ -121,13 +121,13 @@
                                     <input type="checkbox" checked>
                                     <i></i>
                                     <h2>Fobos</h2>
-                                    <p>jfikosd;lajfiokaws jfiesoka;jfiowsajf ojfiesoajf iawsw jfisojf iosfjo</p>
+                                    <p><img src="img/b6.jpeg" alt="Bot1" width="350" height="200" style="margin-left: 15px;"> <p>jfikosd;lajfiokaws jfiesoka;jfiowsajf ojfiesoajf iawsw jfisojf iosfjo</p></p>
                                 </li>
                                 <li>
                                     <input type="checkbox" checked>
                                     <i></i>
                                     <h2>Demos</h2>
-                                    <p></p>
+                                    <p><img src="img/b14.jpeg" alt="Bot2" width="350" height="200" style="margin-left: 15px;"> <p>jfikosd;lajfiokaws jfiesoka;jfiowsajf ojfiesoajf iawsw jfisojf iosfjo</p></p>
                                 </li>
                                 <li>
                                     <input type="checkbox" checked>
@@ -140,11 +140,6 @@
                                     <i></i>
                                     <h2>BattleBot 4</h2>
                                     <p>fjikesol:JGFIojfiosekJFIO</p>
-                                    <p>fjikesol:JGFIojfiosekJFIO</p>
-                                    <p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p>
-                                    <p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p>
-                                    <p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p><p>fjikesol:JGFIojfiosekJFIO</p>
-                                    
                                     
                                 </li>
                             </ul>
