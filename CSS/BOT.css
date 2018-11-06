@@ -1,3 +1,4 @@
+
 *
 {
     padding:0px;
@@ -8,6 +9,34 @@
 html {
     height:100%;
     width:100%;
+
+#wrapper{
+   width:1485px;
+   height:717px;
+}
+div.background{
+    left:auto;
+    width:1485px;
+    height:717px;
+    margin-right:auto;
+    background-color:rgb(0, 143, 138);
+}
+div.body{
+    width:372px;
+    height:460px;
+    float:left;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: 160px;
+}
+
+div.body2{
+    width:360px;
+    height:150px;
+    margin-right:auto;
+    margin-top:18px;
+    float:left;
+    text-align: center;  
 }
 
 body{
@@ -58,5 +87,6 @@ body{
 }
 
 #Loginn:hover{
+    
     color: darkgreen;
 }
