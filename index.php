@@ -120,26 +120,30 @@
                                 <li>
                                     <input type="checkbox" checked>
                                     <i></i>
-                                    <h2>Fobos</h2>
-                                    <p><img src="img/b6.jpeg" alt="Bot1" width="350" height="200" style="margin-left: 15px;"> <p>jfikosd;lajfiokaws jfiesoka;jfiowsajf ojfiesoajf iawsw jfisojf iosfjo</p></p>
+                                    <h2>Phobos</h2>
+                                    <p><img src="img/b6.jpeg" alt="Bot1" width="350" height="200" style="margin-left: 15px;"> <p> In Classical Greek mythology, 
+                                        Phobos is more of a personification of the fear brought by war and does not appear as a character in any myths. 
+                                        Will this Robot live up to the rath of the Myth and bring fear to all?</p>
+                                            
+                                    </p>
                                 </li>
                                 <li>
                                     <input type="checkbox" checked>
                                     <i></i>
-                                    <h2>Demos</h2>
-                                    <p><img src="img/b14.jpeg" alt="Bot2" width="350" height="200" style="margin-left: 15px;"> <p>jfikosd;lajfiokaws jfiesoka;jfiowsajf ojfiesoajf iawsw jfisojf iosfjo</p></p>
+                                    <h2>Deimos</h2>
+                                    <p><img src="img/b14.jpeg" alt="Bot2" width="350" height="200" style="margin-left: 15px;"> <p>In Greek mythology, Deimos was the personification of terror. Deimos was described as the son of Ares and Aphrodite and twin brother of Phobos. The question now is, who will rain more terror between the brothers?</p></p>
                                 </li>
                                 <li>
                                     <input type="checkbox" checked>
                                     <i></i>
-                                    <h2>BattleBot 3</h2>
-                                    <p><img src="img/b6.jpeg" alt="Bot1" width="350" height="200" style="margin-left: 15px;"> <p>jfikosd;lajfiokaws jfiesoka;jfiowsajf ojfiesoajf iawsw jfisojf iosfjo</p></p>
+                                    <h2>Spaghetti007</h2>
+                                    <p><img src="img/b6.jpeg" alt="Bot1" width="350" height="200" style="margin-left: 15px;"> <p>Lord knows this robot has to be crazy or super spaghetti ish #Scratch Head ...... Well well well introducing our third robot by name Spaghetti007. ATTENTION: The announcer went blank on what to say #JTTW</p></p>
                                 </li>
                                 <li>
                                     <input type="checkbox" checked>
                                     <i></i>
-                                    <h2>BattleBot 4</h2>
-                                    <p><img src="img/b14.jpeg" alt="Bot1" width="350" height="200" style="margin-left: 15px;"> <p>jfikosd;lajfiokaws jfiesoka;jfiowsajf ojfiesoajf iawsw jfisojf iosfjo</p></p>
+                                    <h2>Humbaba</h2>
+                                    <p><img src="img/b14.jpeg" alt="Bot1" width="350" height="200" style="margin-left: 15px;"> <p>Introducing our fourth robot,claiming too definitely be the winner because of its program to act in a smart way, by making important decisions in short time..... We give you the great HUMBABA!!!!!!</p></p>
                                     
                                 </li>
                             </ul>
