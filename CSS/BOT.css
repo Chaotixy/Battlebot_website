@@ -7,7 +7,7 @@ div.background{
     width:1485px;
     height:717px;
     margin-right:auto;
-    background-image:url(pictures/b1.jpg);
+    background-image:url(pictures/bluegreen.png);
 }
 div.body{
     width:372px;
@@ -23,7 +23,7 @@ div.body2{
     margin-right:auto;
     margin-top:18px;
     float:left;
-    text-align: center;
+    text-align: center;  
 }
 .pro{
     height:120px;
@@ -32,4 +32,3 @@ div.body2{
     margin-top:13px;
         
 }
-
