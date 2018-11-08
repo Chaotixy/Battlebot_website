@@ -109,25 +109,25 @@
                                                         ?>
 
                                                         <tr>
-                                                            <td>Group 1</td>
+                                                            <td>Phobos</td>
                                                             <td><input type="number" name="quantity1" min="0" max="10"  class="scores" value="<?php echo $row["quantity1"] ?>"></td>
                                                             <td><input type="number" name="quantity2" min="0" max="10" class="scores" value="<?php echo $row["quantity2"] ?>"></td>
                                                             <td><input type="number" name="quantity3" min="0" max="10" class="scores" value="<?php echo $row["quantity3"] ?>"></td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Group 2</td>
+                                                            <td>Deimos</td>
                                                             <td><input type="number" name="quantity4" min="0" max="10" class="scores" value="<?php echo $row["quantity4"] ?>"></td>
                                                             <td><input type="number" name="quantity5" min="0" max="10" class="scores" value="<?php echo $row["quantity5"] ?>"></td>
                                                             <td><input type="number" name="quantity6" min="0" max="10" class="scores" value="<?php echo $row["quantity6"] ?>"></td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Group 3</td>
+                                                            <td>Spaghetti007</td>
                                                             <td><input type="number" name="quantity7" min="0" max="10" class="scores" value="<?php echo $row["quantity7"] ?>"></td>
                                                             <td><input type="number" name="quantity8" min="0" max="10" class="scores" value="<?php echo $row["quantity8"] ?>"></td>
                                                             <td><input type="number" name="quantity9" min="0" max="10" class="scores" value="<?php echo $row["quantity9"] ?>"></td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Group 4</td>
+                                                            <td>Humbaba</td>
                                                             <td><input type="number" name="quantity10" min="0" max="10" class="scores" value="<?php echo $row["quantity10"] ?>"></td>
                                                             <td><input type="number" name="quantity11" min="0" max="10" class="scores" value="<?php echo $row["quantity11"] ?>"></td>
                                                             <td><input type="number" name="quantity12" min="0" max="10" class="scores" value="<?php echo $row["quantity12"] ?>"></td>
